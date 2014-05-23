@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<highscores>
+	<highscore>
+		<name>Charlie.Sheen.Winning</name>
+		<money>10000</money>
+	</highscore>
+	<highscore>
+		<name>Hurley</name>
+		<money>100000</money>
+	</highscore>
+	<highscore>
+		<name>Starter</name>
+		<money>500</money>
+	</highscore>
+	<highscore>
+		<name>Looser</name>
+		<money>25</money>
+	</highscore>
+</highscores>
