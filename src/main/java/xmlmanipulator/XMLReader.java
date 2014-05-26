@@ -64,7 +64,7 @@ public class XMLReader {
 				xmlFile= new File(prop,from);
 			}
 			else{
-				URL url = XMLReaderTest.class.getClassLoader().getResource("testscores.xml");
+				URL url = XMLReader.class.getClassLoader().getResource("testscores.xml");
 				xmlFile = new File(url.getPath());
 			}
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
